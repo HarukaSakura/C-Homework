@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\bin\Debug\1.3.5.exe.config
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\bin\Debug\1.3.5.exe
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\bin\Debug\1.3.5.pdb
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\1.3.5.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\_1._3._5.Count.resources
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\_1._3._5.Properties.Resources.resources
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\1.3.5.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\1.3.5.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\1.3.5.exe
+C:\Users\lenovo\source\repos\C#\Homework1\1.3.5\1.3.5\obj\Debug\1.3.5.pdb
