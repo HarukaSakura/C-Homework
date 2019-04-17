@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>43b0ef02a5b844b1a0771c0a207f338a</OrderId>
+    <CustomerName>史蒂夫</CustomerName>
+    <GoodsList>
+      <Goods>
+        <GoodsName>玻璃</GoodsName>
+        <GoodsAmount>20</GoodsAmount>
+        <GoodsPrice>6</GoodsPrice>
+      </Goods>
+      <Goods>
+        <GoodsName>木材</GoodsName>
+        <GoodsAmount>30</GoodsAmount>
+        <GoodsPrice>2</GoodsPrice>
+      </Goods>
+      <Goods>
+        <GoodsName>圆石</GoodsName>
+        <GoodsAmount>40</GoodsAmount>
+        <GoodsPrice>2</GoodsPrice>
+      </Goods>
+    </GoodsList>
+    <TotalPrice>260</TotalPrice>
+  </Order>
+</ArrayOfOrder>
