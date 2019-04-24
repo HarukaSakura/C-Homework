@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\bin\Debug\Order.exe.config
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\bin\Debug\Order.exe
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\bin\Debug\Order.pdb
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\obj\Debug\Order.exe
+C:\Users\lenovo\source\repos\C#\Homework4\Order\Order\obj\Debug\Order.pdb
